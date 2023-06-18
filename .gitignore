@@ -1,0 +1,7 @@
+data/VOCdevkit/
+data/VOC2012.rar
+weights/
+.ipynb_checkpoints
+*.pyc
+*.pth
+.vscode/
