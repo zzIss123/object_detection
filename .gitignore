@@ -5,3 +5,6 @@ weights/
 *.pyc
 *.pth
 .vscode/
+data.zip
+weights.zip
+*.cfg
